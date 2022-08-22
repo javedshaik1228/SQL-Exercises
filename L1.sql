@@ -1,1 +1,1 @@
-SELECT * FROM memberinfo WHERE age > 50
+SELECT COUNT(*) FROM memberinfo WHERE age > 50 
